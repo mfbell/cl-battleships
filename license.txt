@@ -1,0 +1,29 @@
+
+							Max Bell General License
+							Version 0.5, 12 Feb 2017
+
+Copyright 2017 Max Bell. Everyone is permitted to copy and distribute verbatim 
+copies of this license document, but changing it is not allowed.
+
+-------------------------------------------------------------------------------
+This license applies all software/programs/scripts/others files accompanied by
+or reference too this license.
+All rights reserved.
+
+You can use said software/programs/scripts/others files under the GNU General 
+Public License (version 3).
+A copy of GNU GPLv3 is available https://www.gnu.org/licenses/gpl.html 
+or in plain text at https://www.gnu.org/licenses/gpl.txt
+However this may be modified or revoked at any time and/or any/all version(s).
+["version(s)" been the software/programs/scripts/others files]
+
+This license is also subject to change at anytime.
+An up-to-date version can most likely be aquired through the same way as this
+one but that is not guaranteed.
+
+
+_______________________________________________________________________________
+-------------------------------------------------------------------------------
+If you do make something out of anything covered by this license I would be 
+intested to here. :)
+-------------------------------------------------------------------------------
