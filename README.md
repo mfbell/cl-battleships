@@ -1,2 +1,2 @@
-# cl-battleships
-Command Line Battleships in python
+# CL-Battleships
+Command Line Battleships in python.
