@@ -1,0 +1,3 @@
+[submodule "configFileHandler"]
+	path = configFileHandler
+	url = https://github.com/mtech0/configFileHandler
