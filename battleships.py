@@ -1,5 +1,5 @@
 """CLI Battleships. PvP Local.
-Writen by Max Bell
+Writen by mtech0
 
 Automatically runs on open as main.
 If imported:
@@ -8,12 +8,12 @@ If imported:
 Will start the game.
 """
 
-__author__ = "Max Bell"
-__copyright__ = "Copyright 2017, Max Bell"
-__credits__ = ["Max Bell"]
+__author__ = "mtech0"
+__copyright__ = "Copyright 2017, mtech0"
+__credits__ = ["mtech0"]
 __license__ = "license.txt"
 __version__ = "0.7.3"
-__maintainer__ = "Max Bell"
+__maintainer__ = "mtech0"
 __email__ = "you@need.not.known"
 __status__ = "Development"
 _setup_errors = {}
